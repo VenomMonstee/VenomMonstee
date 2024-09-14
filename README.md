@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name] 😎
+# Hi there! 👋 I'm Vedant Gadge 😎
 
 Welcome to my GitHub profile! I'm a passionate developer always learning new things and building cool projects. Here's what I bring to the table:
 
