@@ -1,5 +1,8 @@
 # Hi there! 👋 I'm Vedant Gadge 😎
 
+![My GitHub Banner](https://github.com/VenomMonstee/VenomMonstee/blob/main/assets/mankind-knew-that-they-cannot-change-society.1920x1080.mp4)
+
+
 Welcome to my GitHub profile! I'm a passionate developer always learning new things and building cool projects. Here's what I bring to the table:
 
 ---
