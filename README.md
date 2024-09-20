@@ -68,7 +68,7 @@ Welcome to my GitHub profile! I'm a passionate developer always learning new thi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/yourusername)
-[<img align="left" alt="LeetCode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />](https://leetcode.com/yourusername)
+[<img align="left" alt="LeetCode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />](https://leetcode.com/u/PabloEscobar112/)
 
 ---
 
