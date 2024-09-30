@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Vedant Gadge 😎
+# Hi there! 👋 I'm Vedant Gadge 
 
 ![My GitHub Banner](https://github.com/VenomMonstee/VenomMonstee/blob/main/assets/mankind.gif-ezgif.com-video-to-gif-converter.gif)
 
