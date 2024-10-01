@@ -1,13 +1,13 @@
-# Hi there! 👋 I'm Vedant Gadge 
+# Hi there! 👋 I'm **Vedant Gadge**
 
-![My GitHub Banner](https://github.com/VenomMonstee/VenomMonstee/blob/main/assets/mankind.gif-ezgif.com-video-to-gif-converter.gif)
+![GitHub Banner](https://github.com/VenomMonstee/VenomMonstee/blob/main/assets/mankind.gif-ezgif.com-video-to-gif-converter.gif)
 
-
-Welcome to my GitHub profile! I'm a passionate developer always learning new things and building cool projects. Here's what I bring to the table:
+Welcome to my GitHub profile! I'm a passionate developer constantly learning and building innovative projects. Here's a glimpse of what I bring to the table:
 
 ---
 
-## 🚀 Skills & Tech Stack:
+## 🚀 **Tech Stack** & Skills:
+
 | **Programming Languages** | **Frameworks & Libraries** | **Tools & Platforms** | 
 | ------------------------- | ------------------------- | --------------------- | 
 | ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript) ![Python](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python) | ![React](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react) ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js) | ![Git](https://img.shields.io/badge/Version_Control-Git-orange?style=for-the-badge&logo=git) ![Docker](https://img.shields.io/badge/DevOps-Docker-blue?style=for-the-badge&logo=docker) |
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer always learning new thi
 
 ---
 
-## 📂 Projects Showcase:
+## 📂 **Projects Showcase**:
 
 ### 🎮 1. [AnimeLand: A Responsive Anime-Themed Website](https://github.com/yourusername/AnimeLand)
 **Tech Stack**: HTML5, CSS3, JavaScript  
@@ -52,23 +52,20 @@ Welcome to my GitHub profile! I'm a passionate developer always learning new thi
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 **GitHub Stats**:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
 
-## 🏆 GitHub Trophies:
+## 🏆 **GitHub Trophies**:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula)
 
 ---
 
-## 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/yourusername)
+## 🔗 **Connect with Me**:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)  
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)  
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/yourusername)  
 [<img align="left" alt="LeetCode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />](https://leetcode.com/u/PabloEscobar112/)
-
----
-
