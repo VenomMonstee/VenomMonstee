@@ -61,6 +61,7 @@ Welcome to my GitHub profile! I'm a passionate developer constantly learning and
 
 ## 🏆 **GitHub Trophies**:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula)
+[![roadmap.sh](https://roadmap.sh/card/wide/663f4ec0e8cf2039c5db32c3?variant=dark)](https://roadmap.sh)
 
 ---
 
