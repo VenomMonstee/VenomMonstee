@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer constantly learning and
 - Full-screen video background with smooth transitions  
 - Responsive design for mobile and desktop  
 - Social media integration  
-[Check the live demo!](https://yourwebsite.com/AnimeLand)
+[Check the live demo!](https://anime-db-2puc.vercel.app/)
 
 ---
 
