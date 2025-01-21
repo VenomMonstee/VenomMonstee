@@ -8,10 +8,26 @@ Welcome to my GitHub profile! I'm a passionate developer constantly learning and
 
 ## 🚀 **Tech Stack** & Skills:
 
-| **Programming Languages** | **Frameworks & Libraries** | **Tools & Platforms** | 
-| ------------------------- | ------------------------- | --------------------- | 
+<div align="center">
+  <img src="https://i.imgur.com/ZQUwUIh.png" alt="Cyberpunk Banner" width="100%" />
+</div>
+
+---
+
+# 👾 **Welcome to My Cyberpunk World!** 👾
+
+> *"The future is now, and it's coded in neon!"*
+
+---
+
+### ⚡ **Tech Stack**
+
+| **Languages**  | **Frameworks & Libraries**       | **Tools & Platforms**        |
+| -------------- | --------------------------------- | ---------------------------- |
 | ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript) ![Python](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python) | ![React](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react) ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js) | ![Git](https://img.shields.io/badge/Version_Control-Git-orange?style=for-the-badge&logo=git) ![Docker](https://img.shields.io/badge/DevOps-Docker-blue?style=for-the-badge&logo=docker) |
 | ![HTML5](https://img.shields.io/badge/Frontend-HTML5-orange?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/Frontend-CSS3-blue?style=for-the-badge&logo=css3) | ![Bootstrap](https://img.shields.io/badge/UI-Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap) | ![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code) ![Linux](https://img.shields.io/badge/OS-Linux-yellow?style=for-the-badge&logo=linux) |
+
+---
 
 ---
 
