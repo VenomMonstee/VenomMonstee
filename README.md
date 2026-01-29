@@ -2,94 +2,77 @@
 
 ![GitHub Banner](https://github.com/VenomMonstee/VenomMonstee/blob/main/assets/mankind.gif-ezgif.com-video-to-gif-converter.gif)
 
-Welcome to my GitHub profile! I'm a **QA / Manual Tester** with hands-on experience in testing web applications, identifying defects, and ensuring high-quality software delivery. I focus on **functionality, usability, and reliability**.
+Welcome to my data-driven space! I am a **Data Analyst & Gen AI Enthusiast** passionate about uncovering hidden patterns in data and building intelligent systems. I specialize in **Python, SQL, and Exploratory Data Analysis (EDA)**, with a focus on integrating **LLMs** for automated insights.
 
 ---
 
-## 🧪 **QA & Testing Skills**
+## 📊 **Data Science & AI Toolkit**
 
-> *"Quality is never an accident; it is always the result of intelligent effort."*
-
----
-
-### ⚡ **Testing Skill Set**
-
-| **Testing Area**        | **Skills / Tools** |
-|------------------------|--------------------|
-| Manual Testing          | Test Case Design, Test Scenarios, Test Execution |
-| Functional Testing      | Smoke, Sanity, Regression Testing |
-| Test Documentation      | Test Plan, Test Cases, Bug Reports |
-| Defect Tracking         | JIRA |
-| API Testing             | Postman (Basics) |
-| Database Testing        | SQL (CRUD Queries) |
-| Automation (Basic)      | Selenium WebDriver |
-| Methodology             | Agile / Scrum |
-| Version Control         | Git, GitHub |
-| OS & Tools              | Windows, Linux, VS Code |
+> *"In God we trust, all others must bring data." — W. Edwards Deming*
 
 ---
 
-## 📂 **QA Projects & Practice Work**
+### ⚡ **Technical Skills**
 
-### 🧪 1. Manual Testing – Anime DB Website  
-**Type**: Web Application Testing  
-**Scope**:
-- Designed and executed manual test cases  
-- Performed functional, UI, and regression testing  
-- Identified and reported bugs using structured defect reports  
-
-**Testing Areas Covered**:
-- Search & filter functionality  
-- API data rendering  
-- Responsive UI behavior  
-
-🔗 Live Site: https://anime-db-2puc.vercel.app/
+| **Category** | **Tools & Technologies** |
+|-----------------------|-------------------------------------------------------|
+| **Data Analysis** | Python (Pandas, NumPy, Seaborn), EDA, Statistics      |
+| **Generative AI** | Prompt Engineering, OpenAI API, RAG Basics, LangChain |
+| **Databases** | MySQL, MongoDB (Basic Queries)                        |
+| **Visualization** | Power BI, Matplotlib, Plotly                          |
+| **Web Scraping** | Selenium, BeautifulSoup                               |
+| **Dev Tools** | Git, GitHub, Linux, Jupyter Notebooks                 |
 
 ---
 
-### 🧪 2. Weather Web App – QA Testing  
-**Type**: Functional & UI Testing  
-**Scope**:
-- Validated weather data accuracy from OpenWeather API  
-- Tested edge cases (invalid city, empty input, API failure)  
-- Cross-browser testing  
+## 📂 **Featured Data Projects**
 
-🔗 Live Demo: https://stormwatcherdashboard-kit1uw6m5-vedants-projects-37c95162.vercel.app/
-
----
-
-### 🧪 3. API Testing Practice  
-**Tools**: Postman  
-**Work Done**:
-- GET & POST request validation  
-- Status code verification  
-- Basic response validation  
+### 🏎️ 1. F1 – Data Insights & Performance Analytics 
+**Type**: Sports Analytics & Visualization  
+- Conducted deep-dive analysis on F1 datasets to track driver performance and race strategies.  
+- Built interactive visualizations to simplify complex telemetry data for racing fans.  
+- **Tools**: Python, Pandas, Matplotlib.
 
 ---
 
-## 📊 **GitHub Stats**
+### 🤖 2. NEMO — AI Assistant (NVIDIA Integrated)
+**Type**: Gen AI Development  
+- Developed an intelligent assistant utilizing NVIDIA's AI ecosystem.  
+- Optimized **Prompt Engineering** to improve the accuracy of API-driven data responses.  
+- Validated data integrity between model outputs and backend systems.  
+- **Tools**: OpenAI API, Python, REST APIs.
+
+---
+
+### 📺 3. Anime DB – Predictive Content Tracker
+**Type**: Data Engineering & Analysis  
+- Built a custom scraper to aggregate anime data for trend forecasting.  
+- Performed data cleaning and normalization to handle unstructured API responses.  
+- **Tools**: Python, Selenium, JSON.
+
+---
+
+## 📈 **GitHub Stats**
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VenomMonstee&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenomMonstee&layout=compact&theme=radical)
 
 ---
 
-## 🏆 **Learning & Growth**
+## 🏆 **Learning & Professional Growth**
 
-- Continuous learning in **Manual Testing & Automation Basics**
-- Practicing real-world test scenarios  
-- Improving bug reporting & test documentation skills  
-
-[![roadmap.sh](https://roadmap.sh/card/wide/663f4ec0e8cf2039c5db32c3?variant=dark)](https://roadmap.sh)
+- 🎓 **GeeksforGeeks**: Currently mastering **Advanced Data Analytics & Gen AI**.
+- 🛠️ Exploring **RAG (Retrieval-Augmented Generation)** for personal knowledge bases.
+- 📉 Practicing **SQL optimization** for large-scale data querying.
 
 ---
 
 ## 🔗 **Connect with Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin-username)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/VenomMonstee)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/PabloEscobar112/)
 
 ---
 
-⭐ *Open to Manual Tester / QA Trainee opportunities*
+⭐ *Currently seeking opportunities in Data Analytics, Business Intelligence, or Junior Gen AI roles.*
